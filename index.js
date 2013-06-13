@@ -2,10 +2,10 @@ var shuffle = require('shuffle').shuffle
 
 // '10000000'.length
 
-len = 8
 
 exports.calc = function(){
 
+len = 8
 result = []
 
 while(len > 0){
