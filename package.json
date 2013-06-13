@@ -1,0 +1,20 @@
+{
+  "name": "digitarr",
+  "version": "0.0.0",
+  "description": "digitarr ========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amazo/digitarr.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "261bf9caff5b58e926e48fcb626e32c5f0328c76",
+  "dependencies": {
+    "shuffle": "git://github.com/amazo/shuffle"
+  }
+}
